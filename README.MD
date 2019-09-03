@@ -19,9 +19,9 @@ There is a bad practice you should be able to find. Once you think you've found 
 Test your hypothesis by sending some data to the server.
 
 ### Running the Python Fuzzer/Exploiter
-1. cd  starter_code\the cno_demo_project\
-1. pip install -r requirements.txt
-1. python -m demo --help
+ 1. cd  starter_code\the cno_demo_project\
+ 1. pip install -r requirements.txt
+ 1. python -m demo --help
 	1. I think you can take it from here
 
 2. Part two of the lab is to write some PIC code and get it to run from the C file labeled PIC_runner. This runner can do anything that you want it to but something usefull may be
