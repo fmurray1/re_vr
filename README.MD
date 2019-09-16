@@ -17,6 +17,8 @@ This lab is designed in two (three) parts.
 1. The first part is that there is a vulnerable server, open it up in IDA (or other disassemblers) take a look. 
 There is a bad practice you should be able to find. Once you think you've found it try to get it to crash ;). How does one get it to crash, there is a python Fuzzer/Exploiter.
 Test your hypothesis by sending some data to the server.
+### Helpful Hint
+If you open it up in IDA look at sub_401050
 
  ### Running the Python Fuzzer/Exploiter
 >* cd  starter_code\the cno_demo_project\
